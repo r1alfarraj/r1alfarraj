@@ -5,7 +5,7 @@ Kuwait City, Kuwait
 
 I work on vulnerability management, SIEM-based threat detection, and AI-driven security analytics.
 
-[Portfolio](https://r1alfarraj.com) · [Résumé](https://r1alfarraj.com/cv.html) · [LinkedIn](https://kw.linkedin.com/in/rawan-alfarraj-371b6a271) · [Publication](https://doi.org/10.3390/electronics11101575)
+[Portfolio](https://r1alfarraj.com) · [Résumé](https://r1alfarraj.com/cv.html) · [LinkedIn](https://kw.linkedin.com/in/rawan-alfarraj-371b6a271) · [AI security testing survey](https://doi.org/10.5281/zenodo.23345564) · [Electronics paper](https://doi.org/10.3390/electronics11101575)
 
 ## Experience
 
@@ -39,9 +39,14 @@ Vulnerability Assessment · SIEM Analysis · Phishing Simulation · Insider Thre
 
 **B.Sc. Computer Engineering** — Kuwait College of Science and Technology (KCST), 2018 – 2022 · GPA 3.60 / 4.00
 
+## Publications
+
+- **AI Security Testing Outruns Its Evidence: A Literature Survey of the State of the Field as of October 2026** — preprint, Zenodo, 2026. [doi.org/10.5281/zenodo.23345564](https://doi.org/10.5281/zenodo.23345564)
+- **Developing a Cyber Incident Exercises Model to Educate Security Teams** — co-author, *Electronics* 11(10), 2022. [doi.org/10.3390/electronics11101575](https://doi.org/10.3390/electronics11101575)
+
 ## Recognition
 
 - **50 Women in Cybersecurity** — winner of Zain's national cybersecurity challenge
-- **Published researcher** — co-author of a paper on Cyber Incident Exercises, *Electronics* journal
+- **Published researcher** — author of a survey of AI security testing (Zenodo, 2026) and co-author of a paper on Cyber Incident Exercises, *Electronics* journal
 - **Black Hat MEA 2023** — attendee, Riyadh
 - **CTF competitor** — national Capture The Flag competition, Kuwait
