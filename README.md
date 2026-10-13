@@ -1,7 +1,7 @@
 # Rawan Alfarraj
 
 **Cybersecurity Specialist — Security Testing & Vulnerability Management**<br>
-National Bank of Kuwait · Kuwait City, Kuwait
+Kuwait City, Kuwait
 
 I work on vulnerability management, SIEM-based threat detection, and AI-driven security analytics.
 
@@ -9,7 +9,7 @@ I work on vulnerability management, SIEM-based threat detection, and AI-driven s
 
 ## Experience
 
-**National Bank of Kuwait** — Cybersecurity Specialist (Mar 2023 – Present)
+**Cybersecurity Specialist** — Banking sector (Mar 2023 – Present)
 
 - Architected phishing simulations and security awareness programs for 3,000+ employees
 - Built AI-powered compliance dashboards with real-time KPI visualization for executive security posture tracking
