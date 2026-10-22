@@ -22,6 +22,15 @@ I work on vulnerability management, SIEM-based threat detection, and AI-driven s
 
 Vulnerability Assessment · SIEM Analysis · Phishing Simulation · Insider Threats · CIS Audits · IoT Security · AI Dashboards · Compliance
 
+## Vulnerability disclosures
+
+Coordinated disclosures to open-source maintainers, credited via GitHub Security Advisories.
+
+| Advisory | Project | Issue | Severity |
+| --- | --- | --- | --- |
+| [GHSA-4qvp-948j-4cgv](https://github.com/go-vikunja/vikunja/security/advisories/GHSA-4qvp-948j-4cgv) | Vikunja ≤ 2.7.0 (fixed in 2.7.1) | Revoked session's access token keeps working and can mint new credentials (CWE-613) | Moderate · CVSS 6.8 |
+| [GHSA-p23m-cq25-pc4j](https://github.com/go-vikunja/vikunja/security/advisories/GHSA-p23m-cq25-pc4j) | Vikunja ≤ 2.7.0 (fixed in 2.7.1) | Stored CSS injection in rich-text (TipTap) renderer via table-cell `data-background-color` (CWE-1021) | Moderate · CVSS 4.6 |
+
 ## Certifications
 
 | Certification | Issuer |
@@ -48,5 +57,6 @@ Vulnerability Assessment · SIEM Analysis · Phishing Simulation · Insider Thre
 
 - **50 Women in Cybersecurity** — winner of Zain's national cybersecurity challenge
 - **Published researcher** — author of a survey of AI security testing (Zenodo, 2026) and co-author of a paper on Cyber Incident Exercises, *Electronics* journal
+- **Credited vulnerability researcher** — 2 published security advisories in [Vikunja](https://github.com/go-vikunja/vikunja) (GHSA, Oct 2026)
 - **Black Hat MEA 2023** — attendee, Riyadh
 - **CTF competitor** — national Capture The Flag competition, Kuwait
