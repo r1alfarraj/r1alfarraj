@@ -20,14 +20,14 @@ Found, reported and coordinated through to a fix with the maintainers. Each one 
 
 ## Projects
 
-iPhone apps I designed and built in SwiftUI, in English and Arabic. All four are submitted to the App Store and waiting for review.
+iPhone apps I designed and built in SwiftUI, in English and Arabic. All four are available on the App Store.
 
 | App | What it does |
 | --- | --- |
-| **Natoor: Wi-Fi Security** (ناطور) | Checks a home Wi-Fi network: which devices are on it, which services they expose, and what to fix. It gives a security grade from A to F, advice for each open port, a read-only check of the router's port mappings and a speed test. Scans are rate-limited and stay inside the local network. |
-| **Dosely – Medicine Alarm** | Tracks medicines and vitamins for you and your family. It sets an alarm or notification for every dose and keeps asking until the dose is marked taken or skipped. Includes voice entry that runs on the device, adherence insights, a PDF report for your doctor, widgets, an optional Face ID lock and syncing that's optional. |
-| **Wathakker** (وذكّر) | A Quran and daily-worship companion: the Mushaf, recitations, Hifz (memorisation) practice, adhkar, prayer times, a Hijri calendar, fasting tracking and a tasbih counter. |
-| **Thakerni** (ذكّرني) | A calendar and reminder app. You can say or type a reminder in Arabic (including Kuwaiti dialect) or English and it is turned into a scheduled reminder. It has widgets and works offline, with optional sync. |
+| [**Natoor: Wi-Fi Security**](https://apps.apple.com/app/id6837992617) (ناطور) | Checks a home Wi-Fi network: which devices are on it, which services they expose, and what to fix. It gives a security grade from A to F, advice for each open port, a read-only check of the router's port mappings and a speed test. Scans are rate-limited and stay inside the local network. |
+| [**Dosely – Medicine Alarm**](https://apps.apple.com/app/id6817087769) | Tracks medicines and vitamins for you and your family. It sets an alarm or notification for every dose and keeps asking until the dose is marked taken or skipped. Includes voice entry that runs on the device, adherence insights, a PDF report for your doctor, widgets, an optional Face ID lock and syncing that's optional. |
+| [**Wathakker**](https://apps.apple.com/app/id6830296105) (وذكّر) | A Quran and daily-worship companion: the Mushaf, recitations, Hifz (memorisation) practice, adhkar, prayer times, a Hijri calendar, fasting tracking and a tasbih counter. |
+| [**Thakerni**](https://apps.apple.com/app/id6820463622) (ذكّرني) | A calendar and reminder app. You can say or type a reminder in Arabic (including Kuwaiti dialect) or English and it is turned into a scheduled reminder. It has widgets and works offline, with optional sync. |
 
 ## Experience
 
