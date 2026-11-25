@@ -18,6 +18,17 @@ Found, reported and coordinated through to a fix with the maintainers. Each one 
 | [CVE-2026-123528](https://www.cve.org/CVERecord?id=CVE-2026-123528) | [GHSA-4qvp-948j-4cgv](https://github.com/go-vikunja/vikunja/security/advisories/GHSA-4qvp-948j-4cgv) | [Vikunja](https://github.com/go-vikunja/vikunja), fixed in 2.7.1 | Insufficient session expiration: revoked access tokens stayed valid and could mint new credentials (CWE-613) | Moderate · CVSS 3.1: 6.8 |
 | [CVE-2026-123529](https://www.cve.org/CVERecord?id=CVE-2026-123529) | [GHSA-p23m-cq25-pc4j](https://github.com/go-vikunja/vikunja/security/advisories/GHSA-p23m-cq25-pc4j) | [Vikunja](https://github.com/go-vikunja/vikunja), fixed in 2.7.1 | Stored CSS injection in the TipTap rich-text renderer via table-cell `data-background-color` (CWE-1021) | Moderate · CVSS 3.1: 4.6 |
 
+## Projects
+
+iPhone apps I designed and built in SwiftUI, in English and Arabic. All four are submitted to the App Store and waiting for review.
+
+| App | What it does |
+| --- | --- |
+| **Natoor: Wi-Fi Security** (ناطور) | Checks a home Wi-Fi network: which devices are on it, which services they expose, and what to fix. It gives a security grade from A to F, advice for each open port, a read-only check of the router's port mappings and a speed test. Scans are rate-limited and stay inside the local network. |
+| **Dosely – Medicine Alarm** | Tracks medicines and vitamins for you and your family. It sets an alarm or notification for every dose and keeps asking until the dose is marked taken or skipped. Includes voice entry that runs on the device, adherence insights, a PDF report for your doctor, widgets, an optional Face ID lock and syncing that's optional. |
+| **Wathakker** (وذكّر) | A Quran and daily-worship companion: the Mushaf, recitations, Hifz (memorisation) practice, adhkar, prayer times, a Hijri calendar, fasting tracking and a tasbih counter. |
+| **Thakerni** (ذكّرني) | A calendar and reminder app. You can say or type a reminder in Arabic (including Kuwaiti dialect) or English and it is turned into a scheduled reminder. It has widgets and works offline, with optional sync. |
+
 ## Experience
 
 **Cybersecurity Specialist, Security Testing & Vulnerability Management**, Banking sector · *March 2023 – present*
