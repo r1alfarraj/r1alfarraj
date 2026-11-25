@@ -3,6 +3,8 @@
 **Cybersecurity Specialist · Security Testing & Vulnerability Management**
 Kuwait City, Kuwait
 
+[![CVE-2026-123528](https://img.shields.io/badge/CVE--2026--123528-CVSS_6.8_Moderate-orange?logo=cve)](https://www.cve.org/CVERecord?id=CVE-2026-123528) [![CVE-2026-123529](https://img.shields.io/badge/CVE--2026--123529-CVSS_4.6_Moderate-yellow?logo=cve)](https://www.cve.org/CVERecord?id=CVE-2026-123529) [![Write-ups](https://img.shields.io/badge/Write--ups-vulnerability--research-blue?logo=github)](https://github.com/r1alfarraj/vulnerability-research)
+
 Cybersecurity professional with 3+ years of experience. I lead vulnerability assessment and security testing at the National Bank of Kuwait (NBK), across Kuwait and the International Banking Group. My work covers the full lifecycle: scoping assessments, coordinating penetration tests, validating risk, governing remediation and reporting security posture to senior management. Outside my day job, I research vulnerabilities in open-source software and AI-assisted security testing.
 
 [Portfolio](https://r1alfarraj.com) · [Résumé](https://r1alfarraj.com/cv.html) · [LinkedIn](https://kw.linkedin.com/in/rawan-alfarraj-371b6a271)
@@ -11,7 +13,7 @@ Cybersecurity professional with 3+ years of experience. I lead vulnerability ass
 
 ## Vulnerability disclosures
 
-Found, reported and coordinated through to a fix with the maintainers. Each one is credited in a GitHub Security Advisory and a CVE record.
+Found, reported and coordinated through to a fix with the maintainers. Each one is credited in a GitHub Security Advisory and a CVE record. Full write-ups, with root cause, impact and disclosure timeline, are in [vulnerability-research](https://github.com/r1alfarraj/vulnerability-research).
 
 | CVE | Advisory | Project | Finding | Severity |
 | --- | --- | --- | --- | --- |
