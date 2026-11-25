@@ -3,7 +3,7 @@
 **Cybersecurity Specialist · Security Testing & Vulnerability Management**
 Kuwait City, Kuwait
 
-Cybersecurity professional with 3+ years of experience. I lead vulnerability assessment and security testing in the banking sector. My work covers the full lifecycle: scoping assessments, coordinating penetration tests, validating risk, governing remediation and reporting security posture to senior management. Outside my day job, I research vulnerabilities in open-source software and AI-assisted security testing.
+Cybersecurity professional with 3+ years of experience. I lead vulnerability assessment and security testing at the National Bank of Kuwait (NBK), across Kuwait and the International Banking Group. My work covers the full lifecycle: scoping assessments, coordinating penetration tests, validating risk, governing remediation and reporting security posture to senior management. Outside my day job, I research vulnerabilities in open-source software and AI-assisted security testing.
 
 [Portfolio](https://r1alfarraj.com) · [Résumé](https://r1alfarraj.com/cv.html) · [LinkedIn](https://kw.linkedin.com/in/rawan-alfarraj-371b6a271)
 
@@ -31,7 +31,7 @@ iPhone apps I designed and built in SwiftUI, in English and Arabic. All four are
 
 ## Experience
 
-**Cybersecurity Specialist, Security Testing & Vulnerability Management**, Banking sector · *March 2023 – present*
+**Cybersecurity Specialist, Security Testing & Vulnerability Management**, National Bank of Kuwait (NBK), Kuwait City · *March 2023 – present*
 
 - **Vulnerability management:** run vulnerability assessments end to end across network infrastructure, IoT devices and enterprise databases.
 - **Hardening and audit:** carry out CIS Benchmark audits of Windows, Linux and Solaris environments and deliver remediation roadmaps.
@@ -53,7 +53,7 @@ iPhone apps I designed and built in SwiftUI, in English and Arabic. All four are
 | GIAC Security Operations Certified (GSOC) | GIAC / SANS Institute |
 | GIAC Critical Controls Certification (GCCC) | GIAC / SANS Institute |
 | Security+ | CompTIA |
-| ISO/IEC 27001 | Glocert International |
+| ISO/IEC 27001 Lead Implementer | Glocert International |
 | Azure Fundamentals | Microsoft |
 | Splunk Fundamentals | Splunk |
 | Practical Ethical Hacking | TCM Security |
